@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Legal, Copyrights, DMCA, and Fair Use
-You are probably reading this because you want to use code that Mageni published on GitHub, but you have questions about its license. So here is some background information for you to consider from the perspective of U.S. law.
+You are probably reading this because you want to use code that Mageni published on GitHub, but you have questions about its license and your legal rights. So here is some background information for you to consider from the perspective of U.S. law.
 
 ### What's a Copyright?
 Copyright is a bundle of statutory <a href="https://www.law.cornell.edu/uscode/text/17/106">rights</a> created by U.S. Congress.
