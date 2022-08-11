@@ -88,7 +88,16 @@ Mageni is lawfully and rightfully exercising its fair use rights as authorized b
 
 #### Designated Agent
 
-Notification of alleged infringement should be sent to our designated agent. Upon receipt of notification of claimed infringement, we will follow the procedures to comply with the DMCA.
+Notification of alleged infringement should be sent to our designated agent. The DMCA requires that notices of alleged infringement include specific information. Please provide the following information:
+
+1. A signature of the person authorized to act on behalf of the owner of the copyright interest; 
+2. A description of the copyrighted work that You claim has been infringed upon;
+3. A description of where the material that You claim is infringing is located on the Site; 
+4. Your address, telephone number, and e-mail address; 
+5. A statement by You that You have a good-faith belief that the disputed use has not been authorized; and
+6. A statement by You, made under penalty of perjury, that the information in Your notice is accurate and that You are the copyright owner or authorized to act on the copyright owner's behalf. 
+
+Please send the notification under the DMCA of alleged infringement to this address:
 
 Legal Department<br />
 Mageni Security LLC<br />
@@ -96,9 +105,26 @@ Mageni Security LLC<br />
 White Plains, NY 10601<br />
 Email: opensource@mageni.net
 
-Please send the notification under the DMCA of alleged infringement to the above address. The DMCA requires that notices of alleged infringement include specific information. Consult your with your lawyers before submitting or sending an email to the above address. The DMCA requires that you swear to the facts in your copyright complaint under penalty of perjury. **It is a federal crime to intentionally lie in a sworn declaration. (See U.S. Code, Title 18, Section 1621.) so submitting false, fraudulent, and or bad faith information could also result in civil liability — that is, you could get sued and you could be fined or imprisoned not more than five years, or both.** The DMCA also provides a remedy for bad-faith takedowns (See 17 U.S.C.A. § 512), specifically:
+Upon receipt of notification of claimed infringement, we will follow the procedures to comply with the DMCA. Consult your with your lawyers before submitting or sending an email to the above address. The DMCA requires that you swear to the facts in your copyright complaint under penalty of perjury. **It is a federal crime to intentionally lie in a sworn declaration. (See U.S. Code, Title 18, Section 1621.) so submitting false, fraudulent, and or bad faith information could also result in civil liability — that is, you could get sued and you could be fined or imprisoned not more than five years, or both.** The DMCA also provides a remedy for bad-faith takedowns (See 17 U.S.C.A. § 512), specifically:
 
 Any person who knowingly materially misrepresents under this section
 
 1. that material or activity is infringing, or
 2. that material or activity was removed or disabled by mistake or misidentification, shall be liable for any damages, including costs and attorneys’ fees, incurred by the alleged infringer, by any copyright owner or copyright owner’s authorized licensee, or by a service provider, who is injured by such misrepresentation, as the result of the service provider relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing, or in replacing the removed material or ceasing to disable access to it.
+
+> **if a copyright holder ignores or neglects our unequivocal holding that it must consider fair use before sending a takedown notification, it is liable for  damages under § 512(f).** A copyright holder who pays  lip service to the consideration of fair use by claiming it formed a good faith belief when there is evidence to the contrary is still subject to §  512(f) liability. Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016).
+
+Mageni has completed extensive audits to certify that exercises its fair use rights as authorized by 17 U.S.C. § 107.
+
+## Applicable Laws
+Mageni publishes open-source software on Github solely for lawful purposes and for education, research and teaching in cybersecurity and computer programming. You must use the software in a manner that complies with all applicable national, federal, state and local laws, statutes, ordinances, regulations, codes, and other types of government authority.
+
+## Export Laws
+The software provided by Mageni may be subject to US Export rules known as Export Administration Regulations (EAR) and enforced by U.S. Department of Commerce Bureau of Industry and Security (BIS).
+
+Additionally, both the Department of Treasury and the Department of State regulate and control other types of export-related technology and product transfers and transactions. The Office of Foreign Assets Control (OFAC) of the U.S. Department of the Treasury administers and enforces economic sanctions against certain countries and regimes, terrorists, and other threats to U.S. national security, foreign policy, or economic interests.
+
+It is Mageni policy to comply with EAR, OFAC rules, and the international Wassenaar Arrangement. Without limitation, parties using software from Mageni are responsible for obtaining all licenses or other approvals necessary for downloading or transfer of the software or use of the service. A party may not transfer the software or services without U.S. Government permission to (a) anyone on the U.S. Treasury Department’s lists of Specially Designated Nationals (including the Government of Iran, Government of Cuba, prohibited members of the Cuban Communist Party), or on the U.S. Commerce Department’s Denied Persons List, Entity List, or Unverified List, or on the U.S. State Department’s Debarred List or Nonproliferation List (see Commerce Lists to Check); or (b) for use with chemical or biological weapons, sensitive nuclear end-users, or missiles to deliver them.
+
+## Mageni helps to reduce climate change
+Mageni is a member of the <a href="https://climate.stripe.com/nJ22UV" target="_blank">Stripe Climate</a> and contributes 1% of the revenue to reduce climate change.
