@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## Legal, Copyrights, DMCA, and Fair Use
+<details> 
+	<summary>Mageni Code: Legal, Copyrights, DMCA, and Fair Use</summary>
+	<br>
 You are probably reading this because you want to use code that Mageni published on GitHub, but you have questions about its license and your legal rights. So here is some background information for you to consider from the perspective of U.S. law.
 
 ### What's a Copyright?
@@ -128,3 +130,4 @@ It is Mageni policy to comply with EAR, OFAC rules, and the international Wassen
 
 ## Mageni helps to reduce climate change
 Mageni is a member of the <a href="https://climate.stripe.com/nJ22UV" target="_blank">Stripe Climate</a> and contributes 1% of the revenue to reduce climate change.
+</details>
