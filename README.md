@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <details> 
-	<summary>Mageni Code: Legal, Copyrights, DMCA, and Fair Use</summary>
+	<summary>⚖️ Legal, Copyrights, DMCA, and Fair Use</summary>
 	<br>
 You are probably reading this because you want to use code that Mageni published on GitHub, but you have questions about its license and your legal rights. So here is some background information for you to consider from the perspective of U.S. law.
 
