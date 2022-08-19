@@ -1,9 +1,40 @@
-### Hi there 👋
+Hi, my name is Jonathan. 
+
+<h2>Learn About Mageni 🧑‍🎓</h2>
+
+<ul>
+    <li>Learn how to get started with Mageni through the <a href="https://www.mageni.net/docs">Mageni Docs</a> 📚 </li>
+</ul>
+
+<h2>Connect With Us 🍿</h2>
+<ul>
+    <li>Star 🌟 the <a href="https://github.com/mageni/mageni/stargazers">main Mageni repo</a> 🖥️</li>
+    <li>Follow us on <a href="https://twitter.com/magenisecurity">Twitter</a> 🐤</li>
+</ul>
+
+<h2>Legal, DMCA, License, GPL, Copyrights, and Fair Use ⚖️</h2>
+
+Are you a copyright holder? Do you have questions or inquiries about Legal, Copyrights, our DMCA Designated Agent, and Fair Use? Then read the legal section and learn how Mageni is lawfully and rightfully exercising its fair use rights as authorized by 17 U.S.C. § 107 and the GPL while it upholds and cherishes the copyright holders' rights 🎉
+
+<b>Note:</b>  If you want to send a DMCA takedown notification
+
+1. **The GPL grants us "fair use" rights** and
+2. "**If a copyright holder ignores or neglects our unequivocal holding that it must consider fair use before sending a takedown notification, it is liable for damages** under § 512(f). A copyright holder who pays lip service to the consideration of fair use by claiming it formed a good faith belief when there is evidence to the contrary is still subject to § 512(f) liability. Lenz v. Universal Music Corp., 815 F.3d 1145, 1151 (9th Cir. 2016) and 
+3. **Submitting false, fraudulent, and or bad faith information could result in civil liability — that is, you could get sued and you could be fined or imprisoned not more than five years, or both. (U.S. Code, Title 18, Section 1621.)**
+
+With that clear, please read the legal section 👇
 
 <details> 
-	<summary>⚖️ Legal, Copyrights, DMCA, and Fair Use</summary>
+	<summary>👮‍♀ Legal, License, Export, DMCA, and Copyrights</summary>
 	<br>
-You are probably reading this because you want to use code that Mageni published on GitHub, but you have questions about its license and your legal rights. So here is some background information for you to consider from the perspective of U.S. law.
+
+## Thank you, open source
+Mageni uses <a href="https://github.com/mageni/mageni/network/dependencies">thousands of open source projects</a> and we thank them with all our hearts. We hope that providing Mageni as an free, open source software will help other people the same way those softwares have helped us and in doing so Mageni is also in strict compliance with the open source licenses. 
+
+Mageni is an important open source contribution to the upstream projects as it provides a moderm web interface and EDA which was really missing to the open source community.
+
+## Summary
+You are probably reading this because you want to use the code, but you have questions about its license and your legal rights. The DMCA is a U.S. federal law and the Copyrights is a bundle of statutory rights created by the U.S. Congress. So here is some background information for you to consider from the perspective of U.S. law.
 
 ### What's a Copyright?
 Copyright is a bundle of statutory <a href="https://www.law.cornell.edu/uscode/text/17/106">rights</a> created by U.S. Congress.
@@ -130,4 +161,5 @@ It is Mageni policy to comply with EAR, OFAC rules, and the international Wassen
 
 ## Mageni helps to reduce climate change
 Mageni is a member of the <a href="https://climate.stripe.com/nJ22UV" target="_blank">Stripe Climate</a> and contributes 1% of the revenue to reduce climate change.
+
 </details>
