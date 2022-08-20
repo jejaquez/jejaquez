@@ -9,7 +9,6 @@ Hi, my name is Jonathan.
 <h2>Connect With Us 🍿</h2>
 <ul>
     <li>Star 🌟 the <a href="https://github.com/mageni/mageni/stargazers">main Mageni repo</a> 🖥️</li>
-    <li>Follow us on <a href="https://twitter.com/magenisecurity">Twitter</a> 🐤</li>
 </ul>
 
 <h2>Legal, DMCA, License, GPL, Copyrights, and Fair Use ⚖️</h2>
