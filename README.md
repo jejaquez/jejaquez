@@ -1,4 +1,4 @@
-Hi, my name is Jonathan. 
+Hi, my name is Jonathan a Computer Programmer at Mageni with +20 years of experience in Cybersecurity and Computer Programming.
 
 <h2>Learn About Mageni 🧑‍🎓</h2>
 
