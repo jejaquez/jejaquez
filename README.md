@@ -22,8 +22,6 @@ I have more than +20 years of experience performing:
     <li>Learn how to get started with Mageni through the <a href="https://www.mageni.net/docs">Mageni Docs</a> 📚 </li>
 </ul>
 
----          
-
 <h2>Connect With Us 🍿</h2>
 <ul>
     <li>Star 🌟 the <a href="https://github.com/mageni/mageni/stargazers">main Mageni repo</a> 🖥️</li>
