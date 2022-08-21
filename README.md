@@ -22,7 +22,7 @@ Some of the technologies used to built Mageni are listed in the **toolbox** belo
 
 <h2>Connect With Us 🍿</h2>
 <ul>
-    <li>Star 🌟 the <a href="https://github.com/mageni/mageni/stargazers">main Mageni repo</a> 🖥️</li>
+    <li>Star 🌟 the <a href="https://github.com/mageni/mageni/stargazers">main Mageni repo</a> 👩‍💻</li>
 </ul>
 
 <h2>Legal, DMCA, License, GPL, Copyrights, and Fair Use ⚖️</h2>
