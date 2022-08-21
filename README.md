@@ -29,7 +29,7 @@ Some of the technologies used to built Mageni are listed in the **toolbox** belo
 
 <h2>Legal, DMCA, License, Copyrights, and Fair Use ⚖️</h2>
 
-On the legal section you will learn how Mageni is lawfully and rightfully exercising its fair use rights as authorized by 17 U.S.C. § 107 and the GPL while it upholds and cherishes the copyright holders' rights 🎉
+On the legal section you will learn how Mageni is lawfully and rightfully exercising its fair use rights as authorized by 17 U.S.C. § 107 and the GPL while it upholds and cherishes the copyright holders' rights.
 
 <b>Note:</b>  If you would like to send a DMCA takedown notification
 
