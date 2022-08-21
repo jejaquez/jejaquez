@@ -27,7 +27,7 @@ Some of the technologies used to built Mageni are listed in the **toolbox** belo
     <li>Star 🌟 the <a href="https://github.com/mageni/mageni/stargazers">main Mageni repo</a> 👩‍💻</li>
 </ul>
 
-<h2>Legal, DMCA, License, GPL, Copyrights, and Fair Use ⚖️</h2>
+<h2>Legal, DMCA, License, Copyrights, and Fair Use ⚖️</h2>
 
 On the legal section you will learn how Mageni is lawfully and rightfully exercising its fair use rights as authorized by 17 U.S.C. § 107 and the GPL while it upholds and cherishes the copyright holders' rights 🎉
 
