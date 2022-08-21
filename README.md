@@ -38,7 +38,7 @@ On the legal section you will learn how Mageni is lawfully and rightfully exerci
 With that clear, please read the legal section 👇
 
 <details> 
-	<summary>👮‍♀ Legal, License, Export, DMCA, and Copyrights</summary>
+	<summary>👮‍♀ Legal Section</summary>
 	<br>
 
 ## Thank you, open source
