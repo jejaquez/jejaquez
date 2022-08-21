@@ -1,3 +1,5 @@
+<h2>About Me</h2>
+
 ### Hi 👋, my name is Jonathan Jaquez
 
 A Computer Programmer and <a href="https://www.credly.com/badges/65e62aa6-b7af-462f-be51-daedcf2ba3f7/public_url" target="_blank">Certified CompTIA PenTest+</a> at <a href="https://www.mageni.net" target="_blank">Mageni</a> specializing in Cybersecurity, Vulnerability Management, Penetration Testing, and Security Assessments. I have more than +20 years of experience performing:
