@@ -4,7 +4,17 @@
 
 A Computer Programmer and Certified CompTIA PenTest+ at Mageni specializing in Cybersecurity, Vulnerability Management, Penetration Testing, and Security Assessments. Some of the technologies used to built Mageni are listed in the **toolbox** below.
 
----          
+---
+
+I have more than +20 years of experience performing:
+
+- Source Code Reviews
+- Penetration Testing
+- Vulnerability Assessments
+- Vulnerability Scanning
+- Vulnerability Management
+
+---
 
 🧰 Toolbox
 
