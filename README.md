@@ -3,6 +3,7 @@
 A Computer Programmer and a <a href="https://www.credly.com/badges/65e62aa6-b7af-462f-be51-daedcf2ba3f7/public_url" target="_blank">Certified CompTIA PenTest+</a> cybersecurity professional at <a href="https://www.mageni.net" target="_blank">Mageni</a> specializing in Cybersecurity, Vulnerability Management, Ethical Hacking, Penetration Testing, and Security Assessments. I have more than +20 years of experience performing:
 
 - Source Code Reviews
+- Ethical Hacking
 - Penetration Testing
 - Vulnerability Assessments
 - Vulnerability Scanning
@@ -10,7 +11,13 @@ A Computer Programmer and a <a href="https://www.credly.com/badges/65e62aa6-b7af
 
 I am always exploring governance, compliance, leading frameworks, models, and standards to reduce threats and vulnerabilities. I have hands-on experience, exploring advanced topics, and I am always learning the latest concepts, and preparing for anticipated risks in the field of cybersecurity. I am super eager to help others, for that reason, I concentrate my work on the past, present, and future of cybersecurity.
 
-I ❤️ cybersecurity and I dedicated to making it awesome. That's why I am developing Mageni, an open source vulnerability and attack surface management platform. Some of the technologies used to built Mageni are listed in the **toolbox** below.
+Some topics that I love:
+
+- Cyberethics 
+- Cyberlaw
+- Cyberpeace
+
+I am dedicated to make cybersecurity awesome. That's why I am developing Mageni, an open source vulnerability and attack surface management platform. Some of the technologies used to built Mageni are listed in the **toolbox** below.
 
 🧰 Toolbox
 
