@@ -9,9 +9,7 @@ A Computer Programmer and a <a href="https://www.credly.com/badges/65e62aa6-b7af
 - Vulnerability Scanning
 - Vulnerability Management
 
-I am always exploring governance, compliance, leading frameworks, models, and standards to reduce threats and vulnerabilities. I have hands-on experience, exploring advanced topics, and I am always learning the latest concepts, and preparing for anticipated risks in the field of cybersecurity. I am super eager to help others, for that reason, I concentrate my work on the past, present, and future of cybersecurity.
-
-Some topics that I love:
+I am always exploring governance, compliance, leading frameworks, models, and standards to reduce threats and vulnerabilities. I have hands-on experience, exploring advanced topics, and I am always learning the latest concepts, and preparing for anticipated risks in the field of cybersecurity. I am super eager to help others, for that reason, I concentrate my work on the past, present, and future of cybersecurity. Some topics that I love:
 
 - Cyberethics 
 - Cyberlaw
