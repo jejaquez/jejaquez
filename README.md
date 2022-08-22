@@ -15,7 +15,7 @@ I am always exploring governance, compliance, leading frameworks, models, and st
 - Cyberlaw
 - Cyberpeace
 
-I am dedicated to make cybersecurity awesome. That's why I am developing Mageni, an open source vulnerability and attack surface management platform. Some of the technologies used to built Mageni are listed in the **toolbox** below.
+I work earnestly to make cybersecurity awesome. That's why I am developing Mageni, an open source vulnerability and attack surface management platform. Some of the technologies used to built Mageni are listed in the **toolbox** below.
 
 🧰 Toolbox
 
