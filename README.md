@@ -1,4 +1,4 @@
-<h2>About Me</h2>
+<h2>About Me 👁</h2>
 
 My name is Jonathan, a Computer Programmer and a <a href="https://www.credly.com/badges/65e62aa6-b7af-462f-be51-daedcf2ba3f7/public_url" target="_blank">Certified CompTIA PenTest+</a> cybersecurity professional at <a href="https://www.mageni.net" target="_blank">Mageni</a> specializing in Vulnerability Management, Ethical Hacking, Source Code Reviews, Penetration Testing, Vulnerability Scanning, and Vulnerability Assessments.  
 
