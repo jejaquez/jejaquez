@@ -4,6 +4,29 @@ A Computer Programmer and <a href="https://www.credly.com/badges/65e62aa6-b7af-4
 
 I am always exploring governance, compliance, leading frameworks, models, and standards to reduce threats and vulnerabilities. I have hands-on experience, exploring advanced topics, and I am always learning the latest concepts, and preparing for anticipated risks in the field of cybersecurity. I am super eager to help others, for that reason, I concentrate my work on the past, present, and future of cybersecurity. Some topics that I love are cyberspace, cyberethics, cyberlaw, and cyberpeace.
 
+<h2>Professional Summary </h2>
+<ul>
+<li>Qualiﬁed in penetration testing, secure code analysis, and vulnerability management. I hold a DoD (Department of Defense) 8570.01-M approved cybersecurity certiﬁcation compliant with ISO 17024</li>
+<li>+15 years of professional experience in cybersecurity and S-SDLC</li>
+<li>Expert in building hack-resilient applications, services, and infrastructure by implementing threat modeling to identify the threats, attacks, vulnerabilities, and mitigations</li>
+<li>Adept in application security and manual penetration testing for standalone, thick client, web, API, lambda, and mobile applications</li>
+<li>Proﬁcient in using Network Vulnerability Scanners, SAST, DAST, IAST, SCA, OWASP, SANS 25, CVE, CVSS, CAPEC, ATT&CK, and CWE 25</li>
+<li>Skilled in developing security tools to automate the assessments of targets and source code</li>
+<li>Capable of writing proof-of-concept exploits/code to demonstrate the severity of a potential security issue</li>
+<li>Expert in identifying and researching new vulnerabilities with code analysis, symbolic and concolic execution, dynamic testing, and fuzzing</li>
+<li>Working experience with global security teams performing application security and low-level architecture and design reviews of hardware, ﬁrmware, applications, services, network protocols, and devices</li>
+<li>Excellent prioritization skills and capability to communicate at all levels</li>
+<li>Experience with NIST CSF domains and PCI DSS requirements</li>
+<li>Competent in Satellite Communications (SATCOM) Cybersecurity</li>
+<li>Experience in risk management and security assessments</li>
+<li>Working knowledge of AWS, Azure, and GCP services</li>
+<li>Experience in large-scale environments and leading teams</li>
+<li>Proﬁcient in the development of open-source security tooling. I’m the developer of a vulnerability scanning and attack surface management platform that helps to detect vulnerabilities before hackers exploit them</li>
+<li>Skilled in writing professional quality reports, and presenting ﬁndings to executive and technical audiences</li>
+<li>Experience performing penetration tests for ITAR (International Trafﬁc in Arms Regulations) and EAR (Export Administration Regulations) programs approved by the DoD (Department of Defense)</li>
+</ul>
+
+
 I work earnestly to make cybersecurity awesome. That's why I am developing Mageni, an open source vulnerability and attack surface management platform. Some of the technologies used to built Mageni are listed in the **toolbox** below.
 
 🧰 Toolbox
