@@ -1,6 +1,6 @@
 <h2>About Me 👁</h2>
 
-A Computer Programmer and <a href="https://www.credly.com/badges/65e62aa6-b7af-462f-be51-daedcf2ba3f7/public_url" target="_blank">qualified</a> cybersecurity professional at <a href="https://www.mageni.net" target="_blank">Mageni</a> specializing in Vulnerability Management, Ethical Hacking, Source Code Reviews, Threat Modeling, Penetration Testing, Vulnerability Scanning, and Vulnerability Assessments.  
+An open-source developer and <a href="https://www.credly.com/badges/65e62aa6-b7af-462f-be51-daedcf2ba3f7/public_url" target="_blank">qualified</a> cybersecurity professional specializing in Vulnerability Management, Ethical Hacking, Source Code Reviews, Threat Modeling, Penetration Testing, Vulnerability Scanning, and Vulnerability Assessments.  
 
 I am always exploring governance, compliance, leading frameworks, models, and standards to reduce threats and vulnerabilities. I have hands-on experience, exploring advanced topics, and I am always learning the latest concepts, and preparing for anticipated risks in the field of cybersecurity. I am super eager to help others, for that reason, I concentrate my work on the past, present, and future of cybersecurity. Some topics that I love are cyberspace, cyberethics, cyberlaw, and cyberpeace.
 
